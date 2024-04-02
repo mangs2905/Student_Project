@@ -1,0 +1,67 @@
+[
+    {
+        "student_id": "1001",
+        "amount": 200,
+        "date": "2023-01-15"
+    },
+    {
+        "student_id": "1002",
+        "amount": 150,
+        "date": "2023-02-10"
+    },
+    {
+        "student_id": "1003",
+        "amount": 300,
+        "date": "2023-03-05"
+    },
+    {
+        "student_id": "12345",
+        "amount": 100,
+        "date": "2024-03-01"
+    },
+    {
+        "student_id": "67890",
+        "amount": 200,
+        "date": "2024-03-15"
+    },
+    {
+        "student_id": "12345",
+        "amount": 150,
+        "date": "2024-04-05"
+    },
+    {
+        "student_id": "12345",
+        "amount": 100,
+        "date": "2024-03-01"
+    },
+    {
+        "student_id": "67890",
+        "amount": 200,
+        "date": "2024-03-15"
+    },
+    {
+        "student_id": "12345",
+        "amount": 150,
+        "date": "2024-04-05"
+    },
+    {
+        "student_id": "12345",
+        "amount": 100,
+        "date": "2024-03-01"
+    },
+    {
+        "student_id": "67890",
+        "amount": 200,
+        "date": "2024-03-15"
+    },
+    {
+        "student_id": "12345",
+        "amount": 150,
+        "date": "2024-04-05"
+    },
+    {
+        "student_id": "1000",
+        "amount": 10.0,
+        "date": "2024-04-02"
+    }
+]

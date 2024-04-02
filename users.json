@@ -1,0 +1,37 @@
+[
+    {
+        "username": "john_doe",
+        "password": "new_password",
+        "role": "student"
+    },
+    {
+        "username": "jane_smith",
+        "password": "hello_world",
+        "role": "teacher"
+    },
+    {
+        "username": "mark_johnson",
+        "password": "qwerty",
+        "role": "parent"
+    },
+    {
+        "username": "john_doe",
+        "password": "password123",
+        "role": "student"
+    },
+    {
+        "username": "john_doe",
+        "password": "password123",
+        "role": "student"
+    },
+    {
+        "username": "john_doe",
+        "password": "password123",
+        "role": "student"
+    },
+    {
+        "username": "john_doe",
+        "password": "password123",
+        "role": "student"
+    }
+]
